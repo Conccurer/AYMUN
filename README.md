@@ -27,10 +27,10 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/aymun-website.git```
+   git clone https://github.com/your-username/aymun-website.git
 2. **Open the project directory:**
    ```bash
-   cd aymun-website```
+   cd aymun-website
 3. **Open index.html in your web browser to view the website.**
 
 ## Project Structure
